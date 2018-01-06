@@ -1,0 +1,7 @@
+.block {
+  display: block;
+}
+
+.block__elem {
+  display: inline-block;
+}
